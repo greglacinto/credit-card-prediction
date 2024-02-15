@@ -1,4 +1,6 @@
 *.pyc
 __pycache__
 temp.json
-*.env
+*env
+*.pdf
+*chinedu.ipynb
