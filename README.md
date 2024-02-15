@@ -5,4 +5,4 @@ In this project, I analyzed data on Credit card transactions using data from the
 
 Using the data, I analyzed factors that correlated with credit card transactions being fraudulent, and did some exploratory visualization and analysis.  I then created a model that predicts the chance that a credit card transaction is Fraudulent or not.  This model could be useful for financial business owners.  You can see the exploratory data analysis in the `analysis.ipynb` notebook above.  
 
-The model can be tested locally using the python script `credit_card_fraud_app.py` also seen above.
+The model `pred_fraud_model.pkl` can be tested locally using the python script `credit_card_fraud_app.py` also seen above.
